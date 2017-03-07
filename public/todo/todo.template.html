@@ -1,0 +1,14 @@
+<h4>My simple todo app</h4>
+
+<form ng-submit="addItem()">
+  <div>
+    <input type="text" placeholder="new todo item" ng-model="todoItem">
+  </div>
+  <div><button>Add Item</button></div>
+</form>
+
+<div ng-repeat="item in items track by $index">
+  <ul>
+    <li>{{item.name}}</li>
+  </ul>
+</div>
