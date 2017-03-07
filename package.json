@@ -1,0 +1,21 @@
+{
+  "name": "angular-playground",
+  "version": "1.0.0",
+  "description": "A simple angular 1 web app build on stream at https://www.twitch.tv/brookzerker",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrooksPatton/angular-playground.git"
+  },
+  "keywords": [],
+  "author": "Brooks Patton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrooksPatton/angular-playground/issues"
+  },
+  "homepage": "https://github.com/BrooksPatton/angular-playground#readme"
+}
